@@ -7,9 +7,8 @@ Soy Técnico en Proyectos de Edificación y actualmente trabajo en una ingenier�
 
 ### 📚 Desarrollo de Aplicaciones Web
 
-- **Entidad Educativa:]**  
+- **Entidad Educativa:**  
 [Centro Integral de Formación Profesional a Distancia "La Conservera" - Región de Murcia](https://sites.google.com/view/fplaconservera)
-
 
 - **Asignaturas Matriculadas:**  
   - Bases de datos

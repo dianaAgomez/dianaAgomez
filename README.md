@@ -20,6 +20,13 @@ Soy Técnico en Proyectos de Edificación y actualmente trabajo en una ingenier�
   - Programación
   - ~~Itinerario personal para la empleabilidad I~~
  
+ - **Stack tecnológico del curso:**
+ - HTML
+ - GitHub
+ - Java
+  - CSS
+  - SQL
+  - Python
 ---
 
 ### 🔧 Mis conocimientos básicos

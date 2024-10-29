@@ -32,10 +32,18 @@ Soy Técnico en Proyectos de Edificación y actualmente trabajo en una ingenier�
 
 ---
 
-### 🌱 Últimos Aprendizajes y Posts
+### 🌱 Lenguajes de programación que me gustaría aprender
 
-- [Post 1](URL) - Breve descripción
-- [Post 2](URL) - Breve descripción
+- **🎮 Desarrollo de Videojuegos**  
+- ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=ffffff)
+- ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=ffffff)
+- ![Lua](https://img.shields.io/badge/-Lua-2C2D72?logo=lua&logoColor=ffffff)
+
+- **🤖 Inteligencia Artificial**
+- ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=ffffff)
+- ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=ffffff)
+- ![Julia](https://img.shields.io/badge/-Julia-9558B2?logo=julia&logoColor=ffffff)
+- ![LISP](https://img.shields.io/badge/-LISP-3B2F63?logo=lisp&logoColor=ffffff)
 
 ---
 

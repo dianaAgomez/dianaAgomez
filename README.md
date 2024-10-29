@@ -51,13 +51,6 @@ Soy Técnico en Proyectos de Edificación y actualmente trabajo en una ingenier�
 
 ---
 
-### 📊 Mis Estadísticas en GitHub
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_NOMBRE_DE_USUARIO&show_icons=true&theme=radical)
-![Lenguajes más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_NOMBRE_DE_USUARIO&layout=compact&theme=radical)
-
----
-
 ### 👥 Encuéntrame en:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=ffffff)](https://linkedin.com/in/TU_USUARIO)

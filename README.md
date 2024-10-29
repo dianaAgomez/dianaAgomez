@@ -26,7 +26,7 @@ Soy Técnico en Proyectos de Edificación y actualmente trabajo en una ingenier�
     <th style="color: blue;">Lenguajes y Tecnologías</th>
   </tr>
   <tr>
-    <td style="color: green;">HTML</td>
+    <td style="color: red;">HTML</td>
   </tr>
   <tr>
     <td style="color: green;">GitHub</td>

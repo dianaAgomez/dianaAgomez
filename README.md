@@ -7,11 +7,11 @@ Soy Técnico en Proyectos de Edificación y actualmente trabajo en una ingenier�
 
 ### 📚 Desarrollo de Aplicaciones Web
 
-- **[Entidad Educativa:]**  
+- **Entidad Educativa:]**  
 [Centro Integral de Formación Profesional a Distancia "La Conservera" - Región de Murcia](https://sites.google.com/view/fplaconservera)
 
 
-- **[ Asignaturas Matriculadas:]**  
+- **Asignaturas Matriculadas:**  
   - Bases de datos
   - Lenguajes de marcas y sistemas de gestión de información
   - Entornos de desarrollo
@@ -22,7 +22,7 @@ Soy Técnico en Proyectos de Edificación y actualmente trabajo en una ingenier�
   - ~~Itinerario personal para la empleabilidad I~~
  
 ---
-### 🔧 Tecnologías & Herramientas
+### 🔧 Mis conocimientos básicos
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)

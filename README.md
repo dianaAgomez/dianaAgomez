@@ -20,30 +20,14 @@ Soy Técnico en Proyectos de Edificación y actualmente trabajo en una ingenier�
   - Programación
   - ~~Itinerario personal para la empleabilidad I~~
  
- - **Stack tecnológico del curso:**
- <table>
-  <tr>
-    <th style="color: blue;">Lenguajes y Tecnologías</th>
-  </tr>
-  <tr>
-    <td style="color: red;">HTML</td>
-  </tr>
-  <tr>
-    <td style="color: green;">GitHub</td>
-  </tr>
-  <tr>
-    <td style="color: green;">Java</td>
-  </tr>
-  <tr>
-    <td style="color: green;">CSS</td>
-  </tr>
-  <tr>
-    <td style="color: green;">SQL</td>
-  </tr>
-  <tr>
-    <td style="color: green;">Python</td>
-  </tr>
-</table>
+ | **Stack tecnológico del curso** |
+|------------------------------|
+| HTML                         |
+| GitHub                       |
+| Java                         |
+| CSS                          |
+| SQL                          |
+| Python                       |
 
 ---
 
